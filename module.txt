@@ -1,0 +1,14 @@
+pip install opencv-python
+pip install tensorflow
+pip install keras
+pip install pygame
+pip install mysql-connector-python
+pip install tkinter
+pip install customtkinter
+pip install matplotlib
+pip install numpy
+pip install pillow
+
+table names: 
+users (id, username, password)
+music_files (id, title, file_path, category)
